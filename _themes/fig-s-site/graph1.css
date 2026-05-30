@@ -1,104 +1,94 @@
-.mstheme {
-  separator-image: url(loohorsa.gif);
-  list-image-1: url(loobul1a.gif);
-  list-image-2: url(loobul2a.gif);
-  list-image-3: url(loobul3a.gif);
-  nav-banner-image: url(loobanna.gif);
-  navbutton-horiz-normal: url(loohbuda.gif);
-  navbutton-horiz-hovered: url(loohbuha.gif);
-  navbutton-horiz-pushed: url(loohbusa.gif);
-  navbutton-vert-normal: url(loovbuda.gif);
-  navbutton-vert-hovered: url(loovbuha.gif);
-  navbutton-vert-pushed: url(loovbusa.gif);
-  navbutton-home-normal: url(loohomda.gif);
-  navbutton-home-hovered: url(loohomha.gif);
-  navbutton-home-pushed: url(loohomda.gif);
-  navbutton-next-normal: url(loonexda.gif);
-  navbutton-next-hovered: url(loonexha.gif);
-  navbutton-next-pushed: url(loonexda.gif);
-  navbutton-prev-normal: url(loopreda.gif);
-  navbutton-prev-hovered: url(loopreha.gif);
-  navbutton-prev-pushed: url(loopreda.gif);
-  navbutton-up-normal: url(looupda.gif);
-  navbutton-up-hovered: url(looupha.gif);
-  navbutton-up-pushed: url(looupda.gif);
+.mstheme
+{
+	separator-image: url(loohorsa.gif);
+	list-image-1: url(loobul1a.gif);
+	list-image-2: url(loobul2a.gif);
+	list-image-3: url(loobul3a.gif);
+	nav-banner-image: url(loobanna.gif);
+	navbutton-horiz-normal: url(loohbuda.gif);
+	navbutton-horiz-hovered: url(loohbuha.gif);
+	navbutton-horiz-pushed: url(loohbusa.gif);
+	navbutton-vert-normal: url(loovbuda.gif);
+	navbutton-vert-hovered: url(loovbuha.gif);
+	navbutton-vert-pushed: url(loovbusa.gif);
+	navbutton-home-normal: url(loohomda.gif);
+	navbutton-home-hovered: url(loohomha.gif);
+	navbutton-home-pushed: url(loohomda.gif);
+	navbutton-next-normal: url(loonexda.gif);
+	navbutton-next-hovered: url(loonexha.gif);
+	navbutton-next-pushed: url(loonexda.gif);
+	navbutton-prev-normal: url(loopreda.gif);
+	navbutton-prev-hovered: url(loopreha.gif);
+	navbutton-prev-pushed: url(loopreda.gif);
+	navbutton-up-normal: url(looupda.gif);
+	navbutton-up-hovered: url(looupha.gif);
+	navbutton-up-pushed: url(looupda.gif);
 }
-.mstheme-bannertxt {
-  font-family:
-    Comic Sans MS,
-    Arial,
-    Helvetica;
-  color: rgb(239, 198, 41);
-  font-size: 5;
-  font-style: normal;
-  font-weight: normal;
+.mstheme-bannertxt
+{
+	font-family: Comic Sans MS,Arial,Helvetica;
+	color: rgb(239, 198, 41);
+	font-size: 5;
+	font-style: normal;
+	font-weight: normal;
 }
-.mstheme-horiz-navtxt {
-  font-family:
-    comic sans ms,
-    arial,
-    helvetica;
-  color: rgb(0, 0, 0);
-  font-size: 2;
-  font-style: normal;
-  font-weight: normal;
+.mstheme-horiz-navtxt
+{
+	font-family: comic sans ms,arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
 }
-.mstheme-vert-navtxt {
-  font-family:
-    comic sans ms,
-    arial,
-    helvetica;
-  color: rgb(0, 0, 0);
-  font-size: 2;
-  font-style: normal;
-  font-weight: normal;
+.mstheme-vert-navtxt
+{
+	font-family: comic sans ms,arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
 }
-.mstheme-navtxthome {
-  font-family:
-    comic sans ms,
-    arial,
-    helvetica;
-  color: rgb(0, 0, 0);
-  font-size: 1;
-  font-style: normal;
-  font-weight: normal;
+.mstheme-navtxthome
+{
+	font-family: comic sans ms,arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
 }
-.mstheme-navtxtnext {
-  font-family:
-    comic sans ms,
-    arial,
-    helvetica;
-  color: rgb(0, 0, 0);
-  font-size: 1;
-  font-style: normal;
-  font-weight: normal;
+.mstheme-navtxtnext
+{
+	font-family: comic sans ms,arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
 }
-.mstheme-navtxtprev {
-  font-family:
-    comic sans ms,
-    arial,
-    helvetica;
-  color: rgb(0, 0, 0);
-  font-size: 1;
-  font-style: normal;
-  font-weight: normal;
+.mstheme-navtxtprev
+{
+	font-family: comic sans ms,arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
 }
-.mstheme-navtxtup {
-  font-family:
-    comic sans ms,
-    arial,
-    helvetica;
-  color: rgb(0, 0, 0);
-  font-size: 1;
-  font-style: normal;
-  font-weight: normal;
+.mstheme-navtxtup
+{
+	font-family: comic sans ms,arial,helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
 }
-ul {
-  list-style-image: url(loobul1a.gif);
+ul
+{
+	list-style-image: url(loobul1a.gif);
 }
-ul ul {
-  list-style-image: url(loobul2a.gif);
+ul ul
+{
+	list-style-image: url(loobul2a.gif);
 }
-ul ul ul {
-  list-style-image: url(loobul3a.gif);
+ul ul ul
+{
+	list-style-image: url(loobul3a.gif);
 }

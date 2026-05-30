@@ -5,7 +5,9 @@
         ".git",
         "dist",
         ".chrome",
-        "_*"
+        "_*",
+        "_vti_pvt",
+        "_vti_cnf"
     ],
     "formatFiles.extensionsToInclude": ".html"
 }
